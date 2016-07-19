@@ -1,0 +1,147 @@
+.container {
+  background-color: white;
+  height: 642px;
+  width: 370px;
+  overflow: hidden;
+  /*overflow: auto;*/
+}
+
+.position {
+  height: 91px;
+  width: 91px;
+  background-color: gray;
+  /*border: 1px solid black;*/
+  float: left;
+  text-align: center;
+  line-height: 91px;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+  font-size: 35px;
+}
+
+#display {
+  width: 369px;
+  height: 182px;
+  background-color: black;
+}
+
+p {
+  text-align: right;
+  color: white;
+  padding: 0 20px 0 0;
+  font-size: 91px;
+  font-family: "Helvetica Neue";
+  font-weight: lighter;
+}
+
+#zero {
+  width: 183px;
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+#decimal {
+  border-top: 0;
+  border-right: 1px
+  border-bottom: 1px;
+  border-left: 1px;
+}
+
+#divide {
+  background-color: rgb(255, 140, 0);
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 0;
+}
+
+#times {
+  background-color: rgb(255, 140, 0);
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 0;
+}
+
+#subtract {
+  background-color: rgb(255, 140, 0);
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 0;
+}
+
+#plus {
+  background-color: rgb(255, 140, 0);
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 0;
+}
+
+#equals {
+  background-color: rgb(255, 140, 0);
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 0;
+}
+
+#ac {
+  background-color: #D7D7D7;
+  /*border: solid black;*/
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  }
+
+#plusMinus {
+  background-color: #D7D7D7;
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 0;
+  }
+
+#percent {
+  background-color: #D7D7D7;
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 0;
+  }
+
+.numerical {
+  background-color: #F7F7F7;
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 0;
+}
+
+#seven {
+  background-color: #F7F7F7;
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+#four {
+  background-color: #F7F7F7;
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+#one {
+  background-color: #F7F7F7;
+  border-top: 0;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
